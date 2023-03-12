@@ -1,0 +1,1 @@
+{"width":256,"SubTexture":[{"width":68,"y":1,"height":50,"name":"head","x":85},{"width":17,"y":1,"height":50,"name":"left leg","x":192},{"width":17,"y":1,"height":50,"name":"right leg","x":211},{"width":82,"y":1,"height":100,"name":"body_1","x":1},{"width":35,"y":1,"height":50,"name":"right arm","x":155}],"height":128,"name":"Win","imagePath":"Win_tex.png"}

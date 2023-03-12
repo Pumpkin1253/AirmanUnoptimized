@@ -1,0 +1,44 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Intro.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/Menu.unity
+    guid: b7a87f67cebe858489353d254745ab74
+  - enabled: 1
+    path: Assets/Scenes/Game.unity
+    guid: 1c82d32911e06a249b83d4ccde1a08f9
+  - enabled: 1
+    path: Assets/Scenes/Shop.unity
+    guid: 8047783068356674ebfdac212f6a6de9
+  - enabled: 1
+    path: Assets/Scenes/ADS.unity
+    guid: b82a78850d2215b418f7ade632e5b63f
+  - enabled: 1
+    path: Assets/Scenes/Options.unity
+    guid: 04c0ad506fa2ff144913197305e89fcc
+  - enabled: 1
+    path: Assets/Scenes/Creators.unity
+    guid: 75eae8a93b1d7bf449f56c9a610d6717
+  - enabled: 1
+    path: Assets/Scenes/Lose.unity
+    guid: 0e9ad762cb8463e4f8a039a638e09c9c
+  - enabled: 1
+    path: Assets/Scenes/Loading.unity
+    guid: 1e759417d6d5fd347ac7c2f90091a3fe
+  - enabled: 1
+    path: Assets/Scenes/LoadingToMenu.unity
+    guid: 600c8e2b3227be84ca12d1dc8880fa84
+  - enabled: 1
+    path: Assets/Scenes/LoadingFromWon.unity
+    guid: b01c3a76b4813154cb9148a3b911f427
+  - enabled: 1
+    path: Assets/Scenes/Win.unity
+    guid: 8bf7dc902df86a04caa03a380d31cd8b
+  m_configObjects: {}

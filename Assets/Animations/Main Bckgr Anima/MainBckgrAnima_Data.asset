@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1a64e5b0e436d4bed9780211ae245f7b, type: 3}
+  m_Name: MainBckgrAnima_Data
+  m_EditorClassIdentifier: 
+  dataName: MainBckgrAnima
+  dragonBonesJSON: {fileID: 4900000, guid: bdc12f691a907eb49b76013434d7410d, type: 3}
+  textureAtlas:
+  - textureAtlasJSON: {fileID: 4900000, guid: d369715bec3defe439befca86fee6b23, type: 3}
+    texture: {fileID: 2800000, guid: f2b3145153f01dd4f871552067d2c2fc, type: 3}
+    material: {fileID: 2100000, guid: b426f15b8b39892428af9a14428670a0, type: 2}
+    uiMaterial: {fileID: 0}
